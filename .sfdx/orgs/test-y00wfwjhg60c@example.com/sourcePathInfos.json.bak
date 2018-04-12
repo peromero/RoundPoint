@@ -1,0 +1,317 @@
+[
+    [
+        "/Users/pablo.romero/workspace/demospace/RoundPoint/force-app",
+        {
+            "state": "n",
+            "sourcePath": "/Users/pablo.romero/workspace/demospace/RoundPoint/force-app",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 96,
+            "modifiedTime": 1523524465760,
+            "changeTime": 1523524465760,
+            "contentHash": "b28b7af69320201d1cf206ebf28373980add1451",
+            "isWorkspace": false,
+            "isArtifactRoot": true
+        }
+    ],
+    [
+        "/Users/pablo.romero/workspace/demospace/RoundPoint/force-app/main",
+        {
+            "state": "n",
+            "sourcePath": "/Users/pablo.romero/workspace/demospace/RoundPoint/force-app/main",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 96,
+            "modifiedTime": 1523524465760,
+            "changeTime": 1523524465760,
+            "contentHash": "7505d64a54e061b7acd54ccd58b49dc43500b635",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/pablo.romero/workspace/demospace/RoundPoint/force-app/main/default",
+        {
+            "state": "n",
+            "sourcePath": "/Users/pablo.romero/workspace/demospace/RoundPoint/force-app/main/default",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 288,
+            "modifiedTime": 1523524996014,
+            "changeTime": 1523524996014,
+            "contentHash": "5cfc06f1eed39d1d00a0c8d64a88872170b35fc6",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/pablo.romero/workspace/demospace/RoundPoint/force-app/main/default/applications",
+        {
+            "state": "n",
+            "sourcePath": "/Users/pablo.romero/workspace/demospace/RoundPoint/force-app/main/default/applications",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 96,
+            "modifiedTime": 1523524995989,
+            "changeTime": 1523524995989,
+            "contentHash": "4d90bb4a3ad5d084a92cca55c9585ad392e22822",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/pablo.romero/workspace/demospace/RoundPoint/force-app/main/default/applications/Issue_Management.app-meta.xml",
+        {
+            "state": "n",
+            "sourcePath": "/Users/pablo.romero/workspace/demospace/RoundPoint/force-app/main/default/applications/Issue_Management.app-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 547,
+            "modifiedTime": 1523524995989,
+            "changeTime": 1523524995989,
+            "contentHash": "19a8e5708fb65337c8d210e46efda503cfd420a2",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/pablo.romero/workspace/demospace/RoundPoint/force-app/main/default/aura",
+        {
+            "state": "n",
+            "sourcePath": "/Users/pablo.romero/workspace/demospace/RoundPoint/force-app/main/default/aura",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 64,
+            "modifiedTime": 1523524465761,
+            "changeTime": 1523524465761,
+            "contentHash": "da39a3ee5e6b4b0d3255bfef95601890afd80709",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/pablo.romero/workspace/demospace/RoundPoint/force-app/main/default/contentassets",
+        {
+            "state": "n",
+            "sourcePath": "/Users/pablo.romero/workspace/demospace/RoundPoint/force-app/main/default/contentassets",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 128,
+            "modifiedTime": 1523524995994,
+            "changeTime": 1523524995994,
+            "contentHash": "b0994246fe78c8c0249f31b1745a796c66bf516f",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/pablo.romero/workspace/demospace/RoundPoint/force-app/main/default/contentassets/Roundpoint.asset",
+        {
+            "state": "n",
+            "sourcePath": "/Users/pablo.romero/workspace/demospace/RoundPoint/force-app/main/default/contentassets/Roundpoint.asset",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 4279,
+            "modifiedTime": 1523524995995,
+            "changeTime": 1523524995995,
+            "contentHash": "ef8fd5ae24663a65201d7e9e5bd107e72c26baed",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/pablo.romero/workspace/demospace/RoundPoint/force-app/main/default/contentassets/Roundpoint.asset-meta.xml",
+        {
+            "state": "n",
+            "sourcePath": "/Users/pablo.romero/workspace/demospace/RoundPoint/force-app/main/default/contentassets/Roundpoint.asset-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 471,
+            "modifiedTime": 1523524995993,
+            "changeTime": 1523524995993,
+            "contentHash": "f7b594b8e0ddb3073b1dc2b3dca524f9e1dbe664",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/pablo.romero/workspace/demospace/RoundPoint/force-app/main/default/flexipages",
+        {
+            "state": "n",
+            "sourcePath": "/Users/pablo.romero/workspace/demospace/RoundPoint/force-app/main/default/flexipages",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 96,
+            "modifiedTime": 1523524995999,
+            "changeTime": 1523524995999,
+            "contentHash": "85071dfc242bdd8f62654a3dde9ce1c5491c687d",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/pablo.romero/workspace/demospace/RoundPoint/force-app/main/default/flexipages/Issue_Management_UtilityBar.flexipage-meta.xml",
+        {
+            "state": "n",
+            "sourcePath": "/Users/pablo.romero/workspace/demospace/RoundPoint/force-app/main/default/flexipages/Issue_Management_UtilityBar.flexipage-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 390,
+            "modifiedTime": 1523524995999,
+            "changeTime": 1523524995999,
+            "contentHash": "7cc89cf824c5efe7140c5cba1c2245abed7fcf9c",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/pablo.romero/workspace/demospace/RoundPoint/force-app/main/default/layouts",
+        {
+            "state": "n",
+            "sourcePath": "/Users/pablo.romero/workspace/demospace/RoundPoint/force-app/main/default/layouts",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 96,
+            "modifiedTime": 1523524996003,
+            "changeTime": 1523524996003,
+            "contentHash": "6a38bb309086e8c670ae51c1b0a2d4f5815e1e40",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/pablo.romero/workspace/demospace/RoundPoint/force-app/main/default/layouts/Issue__c-Issue Layout.layout-meta.xml",
+        {
+            "state": "n",
+            "sourcePath": "/Users/pablo.romero/workspace/demospace/RoundPoint/force-app/main/default/layouts/Issue__c-Issue Layout.layout-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 2744,
+            "modifiedTime": 1523524996003,
+            "changeTime": 1523524996003,
+            "contentHash": "f2624576b584df23205f02afec2db5800faf2779",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/pablo.romero/workspace/demospace/RoundPoint/force-app/main/default/objects",
+        {
+            "state": "n",
+            "sourcePath": "/Users/pablo.romero/workspace/demospace/RoundPoint/force-app/main/default/objects",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 96,
+            "modifiedTime": 1523524996010,
+            "changeTime": 1523524996010,
+            "contentHash": "7e12735ab35601b6e72c354c23f21498d5cdada6",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/pablo.romero/workspace/demospace/RoundPoint/force-app/main/default/objects/Issue__c",
+        {
+            "state": "n",
+            "sourcePath": "/Users/pablo.romero/workspace/demospace/RoundPoint/force-app/main/default/objects/Issue__c",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 128,
+            "modifiedTime": 1523524996011,
+            "changeTime": 1523524996011,
+            "contentHash": "4c45d545005769d1a14db17330f3c956182781bf",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/pablo.romero/workspace/demospace/RoundPoint/force-app/main/default/objects/Issue__c/Issue__c.object-meta.xml",
+        {
+            "state": "n",
+            "sourcePath": "/Users/pablo.romero/workspace/demospace/RoundPoint/force-app/main/default/objects/Issue__c/Issue__c.object-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 2167,
+            "modifiedTime": 1523524996010,
+            "changeTime": 1523524996010,
+            "contentHash": "5026c895a4ba8632905bd48529c1ed74b3a1f6eb",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/pablo.romero/workspace/demospace/RoundPoint/force-app/main/default/objects/Issue__c/listViews",
+        {
+            "state": "n",
+            "sourcePath": "/Users/pablo.romero/workspace/demospace/RoundPoint/force-app/main/default/objects/Issue__c/listViews",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 96,
+            "modifiedTime": 1523524996011,
+            "changeTime": 1523524996011,
+            "contentHash": "0b3931647b535802350a588b8bf16d4ae6cc2ed6",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/pablo.romero/workspace/demospace/RoundPoint/force-app/main/default/objects/Issue__c/listViews/All.listView-meta.xml",
+        {
+            "state": "n",
+            "sourcePath": "/Users/pablo.romero/workspace/demospace/RoundPoint/force-app/main/default/objects/Issue__c/listViews/All.listView-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 204,
+            "modifiedTime": 1523524996011,
+            "changeTime": 1523524996011,
+            "contentHash": "a09136a1a46c72265bcd1de0f4a07ba06ec1e9bd",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/pablo.romero/workspace/demospace/RoundPoint/force-app/main/default/tabs",
+        {
+            "state": "n",
+            "sourcePath": "/Users/pablo.romero/workspace/demospace/RoundPoint/force-app/main/default/tabs",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 96,
+            "modifiedTime": 1523524996015,
+            "changeTime": 1523524996015,
+            "contentHash": "0e646328e3b0ad880f7f3d1005fa7fecfe2b999f",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/pablo.romero/workspace/demospace/RoundPoint/force-app/main/default/tabs/Issue__c.tab-meta.xml",
+        {
+            "state": "n",
+            "sourcePath": "/Users/pablo.romero/workspace/demospace/RoundPoint/force-app/main/default/tabs/Issue__c.tab-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 224,
+            "modifiedTime": 1523524996015,
+            "changeTime": 1523524996015,
+            "contentHash": "82d81a55d571797fb0b2a363da86baa3c3860f4f",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/pablo.romero/workspace/demospace/RoundPoint",
+        {
+            "state": "n",
+            "sourcePath": "/Users/pablo.romero/workspace/demospace/RoundPoint",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 352,
+            "modifiedTime": 1523524622089,
+            "changeTime": 1523524622089,
+            "contentHash": "a62a6c84c0a5ad5a9f61718a26aa9abe08149ea5",
+            "isWorkspace": true,
+            "isArtifactRoot": false
+        }
+    ]
+]

@@ -36,6 +36,7 @@ global class CreateTaskEmailExample implements Messaging.InboundEmailHandler {
       newIssue.Email_Body__c = email.plainTextBody;
       newIssue.Email_Subject__c = email.subject;
       newIssue.Email_Sender__c = email.fromAddress;
+      newIssue.Status__c = 'New';
 
       /*newTask.add(new Task(Description =  myPlainText,
            Priority = 'Normal',

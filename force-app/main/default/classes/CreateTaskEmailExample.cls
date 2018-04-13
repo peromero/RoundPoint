@@ -28,11 +28,14 @@ global class CreateTaskEmailExample implements Messaging.InboundEmailHandler {
         LIMIT 1];*/
       
       // Add a new Task to the contact record we just found above.
-      if(email.fromAddress == 'pablo@pabeli.com')
-      newIssue.name = email.fromAddress;
+      //if(email.fromAddress == 'pablo@pabeli.com')
+      //newIssue.name = email.fromAddress;
 
-      if(email.fromAddress == 'pablo.romero@salesforce.com')
-      newIssue.name = email.fromAddress;
+      //if(email.fromAddress == 'pablo.romero@salesforce.com')
+      newIssue.name = email.subject + 'PLEASE CHANGE';
+      newIssue.Email_Body__c = email.plainTextBody;
+      newIssue.Email_Subject__c = email.subject;
+      newIssue.Email_Sender__c = email.fromAddress;
 
       /*newTask.add(new Task(Description =  myPlainText,
            Priority = 'Normal',

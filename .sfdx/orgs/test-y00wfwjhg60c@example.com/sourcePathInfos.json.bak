@@ -32,14 +32,14 @@
     [
         "/Users/pablo.romero/workspace/demospace/RoundPoint/force-app/main/default",
         {
-            "state": "u",
             "sourcePath": "/Users/pablo.romero/workspace/demospace/RoundPoint/force-app/main/default",
             "isDirectory": true,
-            "isMetadataFile": false,
             "size": 512,
             "modifiedTime": 1523576631648,
             "changeTime": 1523576631648,
-            "contentHash": "429cb010006523f666dae1f693c26ff977514214"
+            "contentHash": "429cb010006523f666dae1f693c26ff977514214",
+            "isMetadataFile": false,
+            "state": "u"
         }
     ],
     [
@@ -180,14 +180,14 @@
     [
         "/Users/pablo.romero/workspace/demospace/RoundPoint/force-app/main/default/layouts/Issue__c-Issue Layout.layout-meta.xml",
         {
-            "state": "u",
             "sourcePath": "/Users/pablo.romero/workspace/demospace/RoundPoint/force-app/main/default/layouts/Issue__c-Issue Layout.layout-meta.xml",
             "isDirectory": false,
+            "size": 4939,
+            "modifiedTime": 1523613130747,
+            "changeTime": 1523613130747,
+            "contentHash": "7abce51647e1a0383cd547cc8f7a038d2f9edf73",
             "isMetadataFile": true,
-            "size": 4514,
-            "modifiedTime": 1523576631628,
-            "changeTime": 1523576631628,
-            "contentHash": "fc4ebffd588a46a95800c7cd358163d3a509ed9a"
+            "state": "u"
         }
     ],
     [
@@ -415,14 +415,14 @@
     [
         "/Users/pablo.romero/workspace/demospace/RoundPoint/force-app/main/default/objects/Issue__c/fields/Risk_Level__c.field-meta.xml",
         {
-            "state": "u",
             "sourcePath": "/Users/pablo.romero/workspace/demospace/RoundPoint/force-app/main/default/objects/Issue__c/fields/Risk_Level__c.field-meta.xml",
             "isDirectory": false,
-            "isMetadataFile": true,
             "size": 536,
             "modifiedTime": 1523576631621,
             "changeTime": 1523576631621,
-            "contentHash": "0c0d653a2d656c1a49ad0145bf2746315199dd70"
+            "contentHash": "0c0d653a2d656c1a49ad0145bf2746315199dd70",
+            "isMetadataFile": true,
+            "state": "u"
         }
     ],
     [
@@ -441,40 +441,40 @@
     [
         "/Users/pablo.romero/workspace/demospace/RoundPoint/force-app/main/default/permissionsets/IssueMgmt_Admin.permissionset-meta.xml",
         {
-            "state": "u",
             "sourcePath": "/Users/pablo.romero/workspace/demospace/RoundPoint/force-app/main/default/permissionsets/IssueMgmt_Admin.permissionset-meta.xml",
             "isDirectory": false,
-            "isMetadataFile": true,
             "size": 2437,
             "modifiedTime": 1523576631657,
             "changeTime": 1523576631657,
-            "contentHash": "6ff4f837d75976a4ae70f3d11bbe63dd23958d1d"
+            "contentHash": "6ff4f837d75976a4ae70f3d11bbe63dd23958d1d",
+            "isMetadataFile": true,
+            "state": "u"
         }
     ],
     [
         "/Users/pablo.romero/workspace/demospace/RoundPoint/force-app/main/default/globalValueSets",
         {
-            "state": "u",
             "sourcePath": "/Users/pablo.romero/workspace/demospace/RoundPoint/force-app/main/default/globalValueSets",
             "isDirectory": true,
-            "isMetadataFile": false,
             "size": 128,
             "modifiedTime": 1523576631613,
             "changeTime": 1523576631613,
-            "contentHash": "10ede9c3ae07cc2a9a0aaad0c866b5adcf8f8155"
+            "contentHash": "10ede9c3ae07cc2a9a0aaad0c866b5adcf8f8155",
+            "isMetadataFile": false,
+            "state": "u"
         }
     ],
     [
         "/Users/pablo.romero/workspace/demospace/RoundPoint/force-app/main/default/objects/Issue__c/fields",
         {
-            "state": "u",
             "sourcePath": "/Users/pablo.romero/workspace/demospace/RoundPoint/force-app/main/default/objects/Issue__c/fields",
             "isDirectory": true,
+            "size": 480,
+            "modifiedTime": 1523613130738,
+            "changeTime": 1523613130738,
+            "contentHash": "22525b1e61e2fbf962965d5496d5f34356c89a7c",
             "isMetadataFile": false,
-            "size": 384,
-            "modifiedTime": 1523576631621,
-            "changeTime": 1523576631621,
-            "contentHash": "f7fc83d3afb182f7c134d22d719b09591729f82a"
+            "state": "u"
         }
     ],
     [
@@ -506,14 +506,14 @@
     [
         "/Users/pablo.romero/workspace/demospace/RoundPoint/force-app/main/default/classes/CreateTaskEmailExample.cls",
         {
+            "state": "u",
             "sourcePath": "/Users/pablo.romero/workspace/demospace/RoundPoint/force-app/main/default/classes/CreateTaskEmailExample.cls",
             "isDirectory": false,
-            "size": 2247,
-            "modifiedTime": 1523541098000,
-            "changeTime": 1523541098690,
-            "contentHash": "4b3739885ae0f34ad9787d19e6e44c619ecd2792",
             "isMetadataFile": false,
-            "state": "u"
+            "size": 2420,
+            "modifiedTime": 1523621207786,
+            "changeTime": 1523621207786,
+            "contentHash": "5130205a07aa1c90df1035d9204a7675b3f3c758"
         }
     ],
     [
@@ -532,131 +532,170 @@
     [
         "/Users/pablo.romero/workspace/demospace/RoundPoint/force-app/main/default/groups/RP_Analysts.group-meta.xml",
         {
-            "state": "u",
             "sourcePath": "/Users/pablo.romero/workspace/demospace/RoundPoint/force-app/main/default/groups/RP_Analysts.group-meta.xml",
             "isDirectory": false,
-            "isMetadataFile": true,
             "size": 181,
             "modifiedTime": 1523576631608,
             "changeTime": 1523576631608,
-            "contentHash": "823d34f1ec5a1c496fc89ba15dc7c1d5b790b947"
+            "contentHash": "823d34f1ec5a1c496fc89ba15dc7c1d5b790b947",
+            "isMetadataFile": true,
+            "state": "u"
         }
     ],
     [
         "/Users/pablo.romero/workspace/demospace/RoundPoint/force-app/main/default/globalValueSets/Status.globalValueSet-meta.xml",
         {
-            "state": "u",
             "sourcePath": "/Users/pablo.romero/workspace/demospace/RoundPoint/force-app/main/default/globalValueSets/Status.globalValueSet-meta.xml",
             "isDirectory": false,
-            "isMetadataFile": true,
             "size": 897,
             "modifiedTime": 1523576631613,
             "changeTime": 1523576631613,
-            "contentHash": "7e740cee5c15e210c12a8e44211a1c3e8823a8ae"
+            "contentHash": "7e740cee5c15e210c12a8e44211a1c3e8823a8ae",
+            "isMetadataFile": true,
+            "state": "u"
         }
     ],
     [
         "/Users/pablo.romero/workspace/demospace/RoundPoint/force-app/main/default/objects/Issue__c/fields/Status__c.field-meta.xml",
         {
-            "state": "u",
             "sourcePath": "/Users/pablo.romero/workspace/demospace/RoundPoint/force-app/main/default/objects/Issue__c/fields/Status__c.field-meta.xml",
             "isDirectory": false,
-            "isMetadataFile": true,
             "size": 462,
             "modifiedTime": 1523576631621,
             "changeTime": 1523576631621,
-            "contentHash": "03fda5571f5eb20fd86c37aabda3b7c731bb75d5"
+            "contentHash": "03fda5571f5eb20fd86c37aabda3b7c731bb75d5",
+            "isMetadataFile": true,
+            "state": "u"
         }
     ],
     [
         "/Users/pablo.romero/workspace/demospace/RoundPoint/force-app/main/default/flows/RP_CreateIssue-1.flow-meta.xml",
         {
-            "state": "u",
             "sourcePath": "/Users/pablo.romero/workspace/demospace/RoundPoint/force-app/main/default/flows/RP_CreateIssue-1.flow-meta.xml",
             "isDirectory": false,
-            "isMetadataFile": true,
             "size": 7767,
             "modifiedTime": 1523576631634,
             "changeTime": 1523576631634,
-            "contentHash": "bf0164b78421f23c3743faa014639e5b398e0d75"
+            "contentHash": "bf0164b78421f23c3743faa014639e5b398e0d75",
+            "isMetadataFile": true,
+            "state": "u"
         }
     ],
     [
         "/Users/pablo.romero/workspace/demospace/RoundPoint/force-app/main/default/flowDefinitions/RP_CreateIssue.flowDefinition-meta.xml",
         {
-            "state": "u",
             "sourcePath": "/Users/pablo.romero/workspace/demospace/RoundPoint/force-app/main/default/flowDefinitions/RP_CreateIssue.flowDefinition-meta.xml",
             "isDirectory": false,
-            "isMetadataFile": true,
             "size": 105,
             "modifiedTime": 1523576631636,
             "changeTime": 1523576631636,
-            "contentHash": "4102f1024b304c644055ba24c336b5b198707318"
+            "contentHash": "4102f1024b304c644055ba24c336b5b198707318",
+            "isMetadataFile": true,
+            "state": "u"
         }
     ],
     [
         "/Users/pablo.romero/workspace/demospace/RoundPoint/force-app/main/default/profiles/Admin.profile-meta.xml",
         {
-            "state": "u",
             "sourcePath": "/Users/pablo.romero/workspace/demospace/RoundPoint/force-app/main/default/profiles/Admin.profile-meta.xml",
             "isDirectory": false,
+            "size": 20245,
+            "modifiedTime": 1523613130775,
+            "changeTime": 1523613130775,
+            "contentHash": "1b1b0a0c22dd011c15f7ce79cf276a6b7c862e51",
             "isMetadataFile": true,
-            "size": 19757,
-            "modifiedTime": 1523576631653,
-            "changeTime": 1523576631653,
-            "contentHash": "9a477ddac64d5b6bc4d6b7ab6ecdeb22b4615e86"
+            "state": "u"
         }
     ],
     [
         "/Users/pablo.romero/workspace/demospace/RoundPoint/force-app/main/default/groups",
         {
-            "state": "u",
             "sourcePath": "/Users/pablo.romero/workspace/demospace/RoundPoint/force-app/main/default/groups",
             "isDirectory": true,
-            "isMetadataFile": false,
             "size": 96,
             "modifiedTime": 1523576631608,
             "changeTime": 1523576631608,
-            "contentHash": "5fe3bb5a949bb537281b00cf492c3d1225a55a3d"
+            "contentHash": "5fe3bb5a949bb537281b00cf492c3d1225a55a3d",
+            "isMetadataFile": false,
+            "state": "u"
         }
     ],
     [
         "/Users/pablo.romero/workspace/demospace/RoundPoint/force-app/main/default/flows",
         {
-            "state": "u",
             "sourcePath": "/Users/pablo.romero/workspace/demospace/RoundPoint/force-app/main/default/flows",
             "isDirectory": true,
-            "isMetadataFile": false,
             "size": 96,
             "modifiedTime": 1523576631634,
             "changeTime": 1523576631634,
-            "contentHash": "1137da82ea2598b77198166ac9fc07d6550abcad"
+            "contentHash": "1137da82ea2598b77198166ac9fc07d6550abcad",
+            "isMetadataFile": false,
+            "state": "u"
         }
     ],
     [
         "/Users/pablo.romero/workspace/demospace/RoundPoint/force-app/main/default/flowDefinitions",
         {
-            "state": "u",
             "sourcePath": "/Users/pablo.romero/workspace/demospace/RoundPoint/force-app/main/default/flowDefinitions",
             "isDirectory": true,
-            "isMetadataFile": false,
             "size": 96,
             "modifiedTime": 1523576631636,
             "changeTime": 1523576631636,
-            "contentHash": "46d6dcd2d6c4066a2f59a044c68acd2ac7762274"
+            "contentHash": "46d6dcd2d6c4066a2f59a044c68acd2ac7762274",
+            "isMetadataFile": false,
+            "state": "u"
         }
     ],
     [
         "/Users/pablo.romero/workspace/demospace/RoundPoint/force-app/main/default/profiles",
         {
-            "state": "u",
             "sourcePath": "/Users/pablo.romero/workspace/demospace/RoundPoint/force-app/main/default/profiles",
             "isDirectory": true,
-            "isMetadataFile": false,
             "size": 96,
             "modifiedTime": 1523576631653,
             "changeTime": 1523576631653,
-            "contentHash": "dd4bc5d00d5b87ac9dcfa94ec543d354d095c25c"
+            "contentHash": "dd4bc5d00d5b87ac9dcfa94ec543d354d095c25c",
+            "isMetadataFile": false,
+            "state": "u"
+        }
+    ],
+    [
+        "/Users/pablo.romero/workspace/demospace/RoundPoint/force-app/main/default/objects/Issue__c/fields/Email_Body__c.field-meta.xml",
+        {
+            "sourcePath": "/Users/pablo.romero/workspace/demospace/RoundPoint/force-app/main/default/objects/Issue__c/fields/Email_Body__c.field-meta.xml",
+            "isDirectory": false,
+            "size": 394,
+            "modifiedTime": 1523613130737,
+            "changeTime": 1523613130737,
+            "contentHash": "ab0120510474c8aefb4a27bdfe3321685d16ee90",
+            "isMetadataFile": true,
+            "state": "u"
+        }
+    ],
+    [
+        "/Users/pablo.romero/workspace/demospace/RoundPoint/force-app/main/default/objects/Issue__c/fields/Email_Sender__c.field-meta.xml",
+        {
+            "sourcePath": "/Users/pablo.romero/workspace/demospace/RoundPoint/force-app/main/default/objects/Issue__c/fields/Email_Sender__c.field-meta.xml",
+            "isDirectory": false,
+            "size": 409,
+            "modifiedTime": 1523613130738,
+            "changeTime": 1523613130738,
+            "contentHash": "7fbacd019cd39cebf0b84ab71bd2a5e27a4ff54c",
+            "isMetadataFile": true,
+            "state": "u"
+        }
+    ],
+    [
+        "/Users/pablo.romero/workspace/demospace/RoundPoint/force-app/main/default/objects/Issue__c/fields/Email_Subject__c.field-meta.xml",
+        {
+            "sourcePath": "/Users/pablo.romero/workspace/demospace/RoundPoint/force-app/main/default/objects/Issue__c/fields/Email_Subject__c.field-meta.xml",
+            "isDirectory": false,
+            "size": 411,
+            "modifiedTime": 1523613130738,
+            "changeTime": 1523613130738,
+            "contentHash": "87c0558203a599f3134daa6a4d49a03d1b148fa4",
+            "isMetadataFile": true,
+            "state": "u"
         }
     ]
 ]

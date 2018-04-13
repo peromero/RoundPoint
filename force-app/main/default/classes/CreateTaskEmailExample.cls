@@ -32,7 +32,7 @@ global class CreateTaskEmailExample implements Messaging.InboundEmailHandler {
       //newIssue.name = email.fromAddress;
 
       //if(email.fromAddress == 'pablo.romero@salesforce.com')
-      newIssue.name = email.subject + 'PLEASE CHANGE';
+      newIssue.name = email.subject + ' PLEASE CHANGE';
       newIssue.Email_Body__c = email.plainTextBody;
       newIssue.Email_Subject__c = email.subject;
       newIssue.Email_Sender__c = email.fromAddress;
